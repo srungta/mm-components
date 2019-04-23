@@ -1,3 +1,3 @@
 console.log("I am a barbie girl.")
 console.log("In the barbie world.")
-console.log("Its fantastic.")
+console.log("Life in plastic.It's fantastic.")
