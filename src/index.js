@@ -1,1 +1,3 @@
-console.log("I am barbie girl.")
+console.log("I am a barbie girl.")
+console.log("In the barbie world.")
+console.log("Life in plastic.It's fantastic.")
